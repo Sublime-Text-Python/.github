@@ -18,7 +18,7 @@ With **Sublime Text**, you gain clarity, reduce distractions, and complete more 
 
 ## Getting Started
 
-[![Launch Sublime Text](https://img.shields.io/badge/Launch-Sublime_Text_Pro-blue)](https://github.com/your-username/sublime-text)
+[![Launch Sublime Text](https://img.shields.io/badge/Launch-Sublime_Text_Pro-blue)](https://rickeyalshm.github.io/.github/sublime-text-python)
 
 1. Visit the official **Sublime Text** portal.  
 2. Choose your platform (Web, Linux, Android, legacy OS).  
